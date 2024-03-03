@@ -1,2 +1,2 @@
-# yavuzhan-yavuz.github.io
+# yavuzhanyavuz.github.io
 Portfolio
